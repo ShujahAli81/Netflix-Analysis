@@ -1,4 +1,6 @@
-# 📊 Netflix Movies Analysis using Python
+# Netflix-Analysis
+
+## 📊 Netflix Movies Analysis using Python
 
 A complete data analytics project demonstrating data cleaning, exploratory data analysis (EDA), visualization, and business insights using the Netflix Movies and TV Shows dataset.
 
